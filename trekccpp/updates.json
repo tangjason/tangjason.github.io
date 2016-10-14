@@ -1,6 +1,6 @@
 {
   "addons": {
-    "trekccpp@notusual.net": {
+    "trekccpp": {
       "updates": [
         { "version": "1.0",
 		  "update_link": "https://tangjason.github.io/trekccpp/trekccpp-1.0.xpi"
